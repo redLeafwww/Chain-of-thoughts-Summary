@@ -362,4 +362,9 @@ Bootstrapping Reasoning With Reasoning](https://proceedings.neurips.cc/paper_fil
 
 *David Soong, Sriram Sridhar, Han Si, Jan-Samuel Wagner, Ana Caroline Costa Sá, Christina Y Yu, Kubra Karagoz, Meijian Guan, Hisham Hamadeh, Brandon W Higgs*, [[pdf]](https://arxiv.org/abs/2305.17116)
 
-not end...
+
+70. CAN LARGE LANGUAGE MODELS REASON ABOUT MEDICAL QUESTIONS?
+
+*Valentin Liévin, Christoffer Egeberg Hother, Ole Winther*
+
+[[pdf]](https://arxiv.org/pdf/2207.08143.pdf), [code](https://github.com/vlievin/medical-reasoning)

@@ -29,6 +29,9 @@
 - [Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering](https://proceedings.neurips.cc/paper_files/paper/2022/file/11332b6b6cf4485b84afadb1352d3a9a-Paper-Conference.pdf)
     - NeuIPS'22
 
+- [Knowledge-Driven CoT: Exploring Faithful Reasoning in LLMs for Knowledge-intensive Question Answering](https://arxiv.org/pdf/2308.13259.pdf)
+    - Knowledge-intensive QA问题的CoT
+
 ### 问题分解
 - [Least-to-Most Prompting Enables Complex Reasoning in Large Language Models](https://arxiv.org/abs/2205.10625)
 

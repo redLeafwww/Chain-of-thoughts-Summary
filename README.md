@@ -90,6 +90,11 @@ Bootstrapping Reasoning With Reasoning](https://proceedings.neurips.cc/paper_fil
 - [Tree of Thoughts 的文章](https://arxiv.org/abs/2305.10601)
     - [中文解读](https://mp.weixin.qq.com/s/XIdCDD8Gtaoz95e7PMnEfw)
 
+- 进一步更新到[Hypergraph of thoughts](https://arxiv.org/pdf/2308.06207.pdf)
+
+- 这里放一张图片
+![image](../imgs/HyperGraph-of-thoughts.png)
+
 ### 更新一波
 以chain of thoughts作为关键词搜索arxiv.org+ 引用Jason的CoT文章（前10页），根据题目筛选了一轮（去掉完全不相关+去重），目前还没有分类和整理
 

@@ -80,7 +80,12 @@ Bootstrapping Reasoning With Reasoning](https://proceedings.neurips.cc/paper_fil
 - [Emergent Abilities of Large Lanquage Models](https://arxivora/abs/2206.07682)
 - [Lanquage Model Cascades](https://arxiv.ora/abs/2207.10342)
 
+## Graph of thought: 解决更复杂的问题via大模型
+- [Graph of Thoughts: Solving Elaborate Problems with Large Language Models](https://arxiv.org/pdf/2308.09687.pdf)
+    - [中文解读-机器之心](https://mp.weixin.qq.com/s/S8Yi_LV5QTWXnev54kc-cA)
 
+- [Tree of Thoughts 的文章](https://arxiv.org/abs/2305.10601)
+    - [中文解读](https://mp.weixin.qq.com/s/XIdCDD8Gtaoz95e7PMnEfw)
 
 ### 更新一波
 以chain of thoughts作为关键词搜索arxiv.org+ 引用Jason的CoT文章（前10页），根据题目筛选了一轮（去掉完全不相关+去重），目前还没有分类和整理
